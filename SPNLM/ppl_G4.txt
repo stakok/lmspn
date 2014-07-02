@@ -1,0 +1,16 @@
+[MSG] load training data with size 1114045.
+[MSG] load validation data with size 88881.
+[MSG] load testing data with size 99295.
+[MSG] Layer 3 withOutputVariable
+[MSG] Layer 3 AddBias
+[MSG] Number of connections: 3670000
+[MSG] find the transpose matrix for layer 0
+[MSG] finished the transpose matrix for layer 0
+[MSG] find the transpose matrix for layer 1
+[MSG] finished the transpose matrix for layer 1
+[MSG] find the transpose matrix for layer 2
+[MSG] finished the transpose matrix for layer 2
+[MSG] find the transpose matrix for layer 3
+[MSG] finished the transpose matrix for layer 3
+[MSG] find the transpose matrix for layer 4
+[MSG] finished the transpose matrix for layer 4

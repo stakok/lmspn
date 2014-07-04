@@ -1,3 +1,10 @@
+Your publications acknowledge the use or contribution made by the software
+to your research using the following citation: 
+Wei-Chen Cheng, Stanley Kok, and Hoai Vu Pham (Singapore University of
+Technology and Design), Hai Leong Chieu, and Kian Ming A. Chai (DSO National
+Labs), "Language Modeling with Sum-Product Networks", INTERSPEECH, 2014,
+Singapore.
+
 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -186,7 +193,7 @@ Apache License
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright {yyyy} {name of copyright owner}
+   Copyright {2014} {Stanley Kok}
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.

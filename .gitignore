@@ -1,0 +1,4 @@
+# data files
+
+SPNLM/LM_data/*.idx
+SPNLM/LM_data/ZBLLIP99.vocab

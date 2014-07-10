@@ -1,9 +1,9 @@
 #!/bin/ksh
 
-i=40
+i=30
 
 cat configs/Treebank_test_G5.ini | head -n7 > configs/test5.ini
-echo "weights_file	=	savedWeights/5Gram/Treebank.weights.$i" >> configs/test5.ini
+echo "weights_file	=	savedWeights2/5Gram/Treebank.weights.$i" >> configs/test5.ini
 cat configs/Treebank_test_G5.ini | head -n21 | tail -n13 >> configs/test5.ini
 echo "OUT_PROB	=	1" >> configs/test5.ini
 cat configs/Treebank_test_G5.ini | tail -n35 >> configs/test5.ini

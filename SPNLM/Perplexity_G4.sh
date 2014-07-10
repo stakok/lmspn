@@ -1,9 +1,9 @@
 #!/bin/ksh
 
-i=40
+i=30
 
 head -n 7 configs/Treebank_test_G4.ini > configs/test4.ini
-echo "weights_file	=	savedWeights/4Gram/Treebank.weights."$i  >> configs/test4.ini
+echo "weights_file	=	savedWeights2/4Gram/Treebank.weights."$i  >> configs/test4.ini
 tail -n 48 configs/Treebank_test_G4.ini >> configs/test4.ini
 
 ./spn_train configs/test4.ini > ppl_G4.txt
